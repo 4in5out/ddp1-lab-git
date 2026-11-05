@@ -1,0 +1,2 @@
+npm = input()
+print(npm)
