@@ -1,2 +1,4 @@
+nama = input()
 npm = input()
-print(npm)
+print(nama, npm)
+
